@@ -64,14 +64,25 @@ The project uses telecom customer data with key attributes:
 
 ## Project Structure
 
-Customer_Churn_Analysis/
+```
+
+Customer_Retention_and_Churn_Analysis/
 ├── README.md
 ├── Churn_Analysis.pbix
 ├── Churn_Report.pdf
 ├── Dashboard1.png
 ├── Dashboard2.png
+├── Dashboard3.png
+├── Dashboard4.png
+├── Dashboard5.png
+├── Dashboard6.png
+├── Dashboard7.png
+├── Dashboard8.png
+├── Dashboard9.png
 └── Datasets/
     └── Telco-Customer-Churn.csv
+
+```
 
 ---
 
