@@ -68,8 +68,8 @@ The project uses telecom customer data with key attributes:
 
 Customer_Retention_and_Churn_Analysis/
 ├── README.md
-├── Churn_Analysis.pbix
-├── Churn_Report.pdf
+├── Customer_Retention_Churn_Analysis.pbix
+├── Customer_Retention_Churn_Analysis.pdf
 ├── Dashboard1.png
 ├── Dashboard2.png
 ├── Dashboard3.png
@@ -80,7 +80,7 @@ Customer_Retention_and_Churn_Analysis/
 ├── Dashboard8.png
 ├── Dashboard9.png
 └── Datasets/
-    └── Telco-Customer-Churn.csv
+    └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 
 ```
 
@@ -91,13 +91,13 @@ Customer_Retention_and_Churn_Analysis/
 ### Viewing Power BI Dashboard
 
 **Option 1: Interactive Dashboard (.pbix)**
-- Open Customer_Retention_and_Churn_Analysis.pbix in Microsoft Power BI Desktop  
+- Open Customer_Retention_Churn_Analysis.pbix in Microsoft Power BI Desktop  
 - Explore interactive visuals and filters  
 - Analyze churn patterns by segment, tenure, and services  
 - Use slicers for dynamic exploration  
 
 **Option 2: PDF Report**
-- Open Customer_Retention_and_Churn_Analysis.pdf for static viewing  
+- Open Customer_Retention_Churn_Analysis.pdf for static viewing  
 - Suitable for sharing with stakeholders  
 
 ---
