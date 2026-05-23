@@ -91,13 +91,13 @@ Customer_Retention_and_Churn_Analysis/
 ### Viewing Power BI Dashboard
 
 **Option 1: Interactive Dashboard (.pbix)**
-- Open Churn_Analysis.pbix in Microsoft Power BI Desktop  
+- Open Customer_Retention_and_Churn_Analysis.pbix in Microsoft Power BI Desktop  
 - Explore interactive visuals and filters  
 - Analyze churn patterns by segment, tenure, and services  
 - Use slicers for dynamic exploration  
 
 **Option 2: PDF Report**
-- Open Churn_Report.pdf for static viewing  
+- Open Customer_Retention_and_Churn_Analysis.pdf for static viewing  
 - Suitable for sharing with stakeholders  
 
 ---
